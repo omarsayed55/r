@@ -1,0 +1,75 @@
+/* .title {
+    for all class has .title
+}
+
+#nav {
+    for all id nav
+}
+
+div {
+    for all div 
+}
+
+h2 {
+    for all h2 
+} */
+
+/* <link rel="stylesheet" href="css/file.css" />  External Style (best practice)
+
+<style>
+p {
+  color: red;
+}
+
+</style>  Internal Style
+
+<p style="color: blue;">This Is Our Paragraph</p> Inline Style ( Strnger ) */
+
+/* <!-- Write Path -->
+<link rel="stylesheet" href="assets.css" /> */
+
+/* <!-- Write Path -->
+<link rel="stylesheet" href=" source/css/main.css"/> */
+
+/* ._user-name {
+}
+
+
+.-user-name {
+}
+
+.1user-name {
+}
+
+.@user-name {
+}
+
+.user@name {
+}
+
+._user10name {
+}
+
+Yes
+.u {
+} */
+
+/* No
+.USERNAME {
+}
+
+No
+.UserName {
+}
+
+Yes
+.user-name {
+}
+
+No
+.userName {
+}
+
+No
+.usernameprofile {
+} */
